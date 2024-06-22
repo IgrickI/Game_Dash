@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/IgrickI/Game_Dash/blob/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2024-06-22_131117970.png?raw=true "")
 
-Данный дашброд показывает рейтинг и статистику по играм, которые были выпущены с 1995 по 2020.
+Данный дашброд показывает рейтинг и статистику по играм, которые были выпущены с 1995 по 2020 (оценки пользователей и критиков, количество выпущенных игр, издателей, игровые платформы)
 
 В нем вы можете увидеть:
 - Рейтинги игр по их оценкам;
@@ -22,6 +22,10 @@
 - dash_bootstrap_components
 - numpy
 - plotly
+
+Авторами дашборда являются:
+- Дерюгин Игорь
+- Елохин Валерий
 
 [1]: https://www.kaggle.com/datasets/skateddu/metacritic-all-time-games-stats
 [2]: https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data
