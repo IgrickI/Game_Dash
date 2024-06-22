@@ -15,16 +15,20 @@
 - [Video Game Sales Data][3]
 
 Для работы дашборда необходимо установить следующие библиотеки:
-- dash
-- pandas
-- dash_bootstrap_components
-- numpy
-- plotly
+- _dash_
+- _pandas_
+- _dash_bootstrap_components_
+- _numpy_
+- _plotly_
+
+Для того, чтобы запустить дашборд, после установки запустите файл **main.py** из консоли, после чего перейдите по ссылке, которая выведется в консоль.
+Также вы можете посмотреть данный дашборд по [ссылке][4]
 
 Авторами дашборда являются:
-- Дерюгин Игорь
-- Елохин Валерий
+- _Дерюгин Игорь_
+- _Елохин Валерий_
 
 [1]: https://www.kaggle.com/datasets/skateddu/metacritic-all-time-games-stats
 [2]: https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data
 [3]: https://www.kaggle.com/datasets/holmjason2/videogamedata
+[4]: https://cosmoghost.pythonanywhere.com
